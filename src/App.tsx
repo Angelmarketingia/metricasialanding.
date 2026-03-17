@@ -27,10 +27,10 @@ import React, { useState } from "react";
 // --- VERSIÓN FINAL PARA DESPLIEGUE ---
 const CONFIG = {
   CALENDLY_URL: "https://calendly.com/angel_global_ads-metricaia/revision-estrategico-meta-ads",
-  WEBHOOK_URL: "https://script.google.com/macros/s/AKfycbzXOK1xYxKZ5y11uaaK7DsH9qtbsKxUpjBs9BW8eplR7wM_Uh7s-sWgpWFIDDbFTMEU6g/exec",
+  WEBHOOK_URL: "https://script.google.com/macros/s/AKfycbz40KoMeELecc2qvLQDLCIxVz3hQrXv3Kl-mppWFQvcNHiamDHnCLGZmhPoHlF9mgamdQ/exec",
   FB_PIXEL_ID: "497281582757814", // REEMPLAZAR CON TU PIXEL ID
   FB_ACCESS_TOKEN: "EAANXZCITStzsBQ79tqAOMIPWS0OkDc82pZCz7nxtSEyWkskG2Ijx1zZBbZAgico9IQLr0O6JkfrgweU6oZB7MUtYQFYLd0Ro6pGWi8isTn5MWcNqm4n8hIUg4g9IpWNGiLhG6J6NuZAVlF5FiXwDqj84gWyj5fZCPlWx9O4spPXqo7Lg1i8t0GMq0DiwO9ZBbwAvhwZDZD",
-  VERSION: "1.0.6-MAX-FORCE"
+  VERSION: "1.0.7-FINAL-WEBHOOK"
 };
 // --- TRACKING FUNCTIONS ---
 declare global {
